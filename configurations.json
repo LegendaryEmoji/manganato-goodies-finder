@@ -1,0 +1,9 @@
+{
+    "genre": "",
+    "genreQuery": null,
+    "limit": "auto",
+    "minimumRating": 4.5,
+    "minimumViews": 1000,
+    "alreadyKnow": [],
+    "printingColors": ["CYAN", "BLUE", "GREEN", "MAGENTA", "RED", "YELLOW", "WHITE", "LIGHTCYAN_EX", "LIGHTBLUE_EX", "LIGHTRED_EX", "LIGHTMAGENTA_EX", "LIGHTYELLOW_EX", "LIGHTGREEN_EX", "LIGHTWHITE_EX"]
+}
